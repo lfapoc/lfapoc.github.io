@@ -5,9 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Contact Me: +86 13810829511   Lfapoc@hotmail.com
   <br><br>
-  <a href="https://pan.baidu.com/s/1AhjkKCjWIOrBgCyil1SWvw">Download my Profile</a> 
+  <a href="https://pan.baidu.com/s/1AhjkKCjWIOrBgCyil1SWvw">Download my portfolio</a> 
   
-
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
-
 theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
